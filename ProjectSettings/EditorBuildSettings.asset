@@ -20,6 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Samples/Meta Avatars SDK/40.0.1/Sample Scenes/Environments/VenuesLobby/VenuesLobby.unity
     guid: e156f07382ee32d41b1a40c08924db3f
+  - enabled: 1
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/85.0.0/Example Scenes/HandGrabExamples.unity"
+    guid: 39ae0e546b9edc0408d3b11c6a7c2814
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 593a38abb5efec445966e6c9c13d18bb, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3f0dc9c469ee307428e01de8ae69e390, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ca97f301171e1d7418ccf38e325ca98f, type: 2}
