@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/85.0.0/Example Scenes/HandGrabUseExamples.unity"
+    guid: 509f8fa80c708b343a603a4771d35c85
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 547d32e0168bcca42a5e169b885fa89c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e1e295f87567bb347964e3b01efd6082, type: 2}
