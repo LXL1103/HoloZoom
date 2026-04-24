@@ -5,25 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Samples/Meta Avatars SDK/40.0.1/Sample Scenes/Environments/CornellBox/CornellBox.unity
-    guid: c0ee1c22e9b3d554e954aa342cd1a00f
-  - enabled: 1
-    path: Assets/Samples/Meta Avatars SDK/40.0.1/Sample Scenes/Environments/FBConnect/FBConnect.unity
-    guid: f2240ea394ca78f4a9e886c82b925e0b
-  - enabled: 1
-    path: Assets/Samples/Meta Avatars SDK/40.0.1/Sample Scenes/Environments/FootprintCourt/FootprintCourt.unity
-    guid: f2431c06c4a030e4380a0ca0083ad44b
-  - enabled: 1
-    path: Assets/Samples/Meta Avatars SDK/40.0.1/Sample Scenes/Environments/NeutralRig/NeutralRig.unity
-    guid: a7d07f891ef9cee4786dbd51d59c61f2
-  - enabled: 1
-    path: Assets/Samples/Meta Avatars SDK/40.0.1/Sample Scenes/Environments/VenuesLobby/VenuesLobby.unity
-    guid: e156f07382ee32d41b1a40c08924db3f
-  - enabled: 1
-    path: "Assets/Samples/Meta XR Interaction \u200BSDK/85.0.0/Example Scenes/HandGrabExamples.unity"
-    guid: 39ae0e546b9edc0408d3b11c6a7c2814
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/85.0.0/Example Scenes/HandGrabUseExamples.unity"
+    guid: 509f8fa80c708b343a603a4771d35c85
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 593a38abb5efec445966e6c9c13d18bb, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3f0dc9c469ee307428e01de8ae69e390, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ca97f301171e1d7418ccf38e325ca98f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 547d32e0168bcca42a5e169b885fa89c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e1e295f87567bb347964e3b01efd6082, type: 2}
